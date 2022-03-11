@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jarvis (Your's Jarvis)</h1>
 <h3 align="center">A passionate frontend & backend developer from India</h3>
 
-![Github](https://komarev.com/ghpvc/?username=Yours-Jarvis&color=blueviolet)
+![Github](https://komarev.com/ghpvc/?username=Linux-Jarvis&color=blueviolet)
 [![Discord](https://img.shields.io/discord/563087855342190639?label=Discord)](https://discord.gg/kVKz4utJ9G)
 [![Discord](https://img.shields.io/badge/Discord-Server-orange)](https://discord.gg/kVKz4utJ9G)
 [![Instagram](https://img.shields.io/badge/Instagram-Your's_Jarvis-ff0000)](https://www.instagram.com/_alpesh_01_x_yj/)
