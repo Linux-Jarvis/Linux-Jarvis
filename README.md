@@ -6,7 +6,7 @@
 [![Discord](https://img.shields.io/badge/Discord-Server-orange)](https://discord.gg/kVKz4utJ9G)
 [![Instagram](https://img.shields.io/badge/Instagram-Your's_Jarvis-ff0000)](https://www.instagram.com/_alpesh_01_x_yj/)
     
-<a href="https://discord.com/users/899961311771897877">
+<a href="https://discord.com/users/899961311771897877" target="blank">
 <img height="80px" src="https://discord.c99.nl/widget/theme-2/899961311771897877.png" />
 </a>
 
