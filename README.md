@@ -3,10 +3,13 @@
 
 ![Github](https://komarev.com/ghpvc/?username=Linux-Jarvis&color=blueviolet)
 
+
+<html>
 <a href="https://www.instagram.com/_alpesh_01_x_yj/" target="blank">
 <img src="https://img.shields.io/badge/Instagram-Your's_Jarvis-ff0000" />
 </a>
-
+</html>
+    
 [![Discord](https://img.shields.io/discord/563087855342190639?label=Discord)](https://discord.gg/kVKz4utJ9G)
 [![Discord](https://img.shields.io/badge/Discord-Server-orange)](https://discord.gg/kVKz4utJ9G)
 [![Instagram](https://img.shields.io/badge/Instagram-Your's_Jarvis-ff0000)](https://www.instagram.com/_alpesh_01_x_yj/)
