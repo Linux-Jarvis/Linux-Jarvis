@@ -3,7 +3,7 @@
 
 ![Github](https://komarev.com/ghpvc/?username=Linux-Jarvis&color=blueviolet)
 
-<a href="https://www.instagram.com/_alpesh_01_x_yj/" target="_blank">
+<a href="https://www.instagram.com/_alpesh_01_x_yj/" target="blank">
 <img src="https://img.shields.io/badge/Instagram-Your's_Jarvis-ff0000" />
 </a>
 
