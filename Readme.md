@@ -6,16 +6,18 @@
 [![Discord](https://img.shields.io/discord/563087855342190639?label=Discord&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kVKz4utJ9G)
 [![Instagram](https://img.shields.io/badge/Instagram-Your's_Jarvis-ff0000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_alpesh_01_x_yj/)
 
+<div align ="center" width = 50%>
+<a href="https://discord.com/users/899961311771897877">
+<img height="77px" src="https://discord.c99.nl/widget/theme-2/899961311771897877.png" />
+</a>
+</div>
+
 <img src = "https://drive.google.com/uc?export=view&id=1FxN5bfKfuED68yE1DMlrhk69_0txr-Ra" align ="right" width = 50%>
 
 <div align = "left" width = 50%>
 <h2><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/312/man-raising-hand-light-skin-tone_1f64b-1f3fb-200d-2642-fe0f.png"> About ME </h2>
 
-<div align ="right" width = 50%>
-<a href="https://discord.com/users/899961311771897877">
-<img height="77px" src="https://discord.c99.nl/widget/theme-2/899961311771897877.png" />
-</a>
-</div>
+
     
 <ul>
 <li>I love to learn to code in differnt languages</li>
