@@ -8,9 +8,9 @@
 
 <div align ="center" width = 50%>
 <a href="https://discord.com/users/899961311771897877">
-<img height="77px" src="https://discord.c99.nl/widget/theme-2/899961311771897877.png" />
+<img height="80px" src="https://discord.c99.nl/widget/theme-2/899961311771897877.png" />
 </a>
-</div>
+</div><br>
 
 <img src = "https://drive.google.com/uc?export=view&id=1FxN5bfKfuED68yE1DMlrhk69_0txr-Ra" align ="right" width = 50%>
 
