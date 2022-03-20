@@ -11,7 +11,7 @@
 <div align = "left" width = 50%>
 <h2><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/312/man-raising-hand-light-skin-tone_1f64b-1f3fb-200d-2642-fe0f.png"> About ME </h2>
 
-<div align ="right">
+<div align ="right" width = 50%>
 <a href="https://discord.com/users/899961311771897877">
 <img height="77px" src="https://discord.c99.nl/widget/theme-2/899961311771897877.png" />
 </a>
